@@ -27,6 +27,29 @@ De iniciar con un blog de cálculo en Blogspot a desarrollar soluciones web con 
 
 </span>
 
+<h4> Backend </h4>
+<span> 
+  
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
+  ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+
+</span>
+
+<h4> Herramientas </h4>
+<span> 
+  
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+</span>
+
+<h4>Adicionales </h4>
+<span> 
+  
+  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+</span>
+
 
 <h4> Other Tools and Technologies </h4>
 <span>
