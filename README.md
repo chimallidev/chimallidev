@@ -51,6 +51,10 @@ De iniciar con un blog de cálculo en Blogspot a desarrollar soluciones web con 
 
 </span>
 
+## Estadisticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimallidev&layout=compact&theme=dark&custom_title=Lenguajes&nbsp;más&nbsp;utilizados)
+
 ## Explora mis redes sociales
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Chimallidev)
