@@ -9,6 +9,7 @@ De iniciar con un blog de cálculo en Blogspot a desarrollar soluciones web con 
 - Fuera del del mundo del desarrollo de software 🎮 amo los videojuegos, 🎵 escuchar música, y 📜 leer artículos y 📖 libros de ciencia.
 - 👾 Además de desarrollar software, comparto contenido relacionado con programación y tecnología en distintas plataformas digitales, te invito a explorar mis redes sociales.
 - 📫 Ponte en contacto conmigo: <a href="chimalli.dev@gmail.com">chimalli.dev@gmail.com</a>
+- ˖⌕ ۫ 💻 Revisa mi portafolio: <a href="https://portafolio-chimallidev.onrender.com/">portafolio-chimallidev.onrender.com</a>
 
 ## Mis habilidades
 
