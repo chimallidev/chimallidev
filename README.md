@@ -62,7 +62,7 @@ De iniciar con un blog de cálculo en Blogspot a desarrollar soluciones web con 
 
 ## Estadisticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimallidev&layout=compact&theme=dark&custom_title=Lenguajes&nbsp;más&nbsp;utilizados)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=chimallidev&layout=compact&theme=dark&custom_title=Lenguajes&nbsp;más&nbsp;utilizados)
 
 ## Explora mis redes sociales
 
